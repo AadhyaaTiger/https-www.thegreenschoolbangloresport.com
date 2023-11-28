@@ -1,0 +1,23 @@
+.onePreviewBody {
+    background-color: var(--backgroundColor);
+    background-image: var(--backgroundImage);
+  }
+  
+  #editorSettingsTopBar a.layoutIcon
+  {
+    color : var(--oneDevicesFontIconColor);
+    fill : var(--oneDevicesFontIconColor);
+  }
+  
+  #editorSettingsTopBar a.layoutIcon.active
+  {
+    background-color : var(--header-color);
+    color : var(--header-text-color);
+    fill : var(--header-text-color);
+  }
+  
+  #editorSettingsTopBar .logo {
+    background-image: var(--logo-url);
+    display: var(--editorSettingsTopBarDisplay);
+  }
+  

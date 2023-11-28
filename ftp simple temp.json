@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Aadhyaa tgsbsports ftp",
+		"host": "thegreenschoolbangloresports.com",
+		"port": 21,
+		"type": "ftp",
+		"username": "@AadhyaaCoder.com",
+		"password": "Aadhyaa@Coder109TIGER",
+		"path": "/",
+		"autosave": true,
+		"confirm": false
+	}
+]
